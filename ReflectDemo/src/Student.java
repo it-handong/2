@@ -2,7 +2,7 @@
 /**
  * @description: TODO
  * @author: handong
- * @date: 2019Äê11ÔÂ14ÈÕÉÏÎç11:46:20
+ * @date: 2019å¹´11æœˆ14æ—¥11:46:20
 **/
 public class Student {
 	public String getName() {
